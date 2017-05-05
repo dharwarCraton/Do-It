@@ -14,6 +14,7 @@
 		3117BC9F1EBCCDFF0079326A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3117BC9E1EBCCDFF0079326A /* Assets.xcassets */; };
 		3117BCA21EBCCDFF0079326A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3117BCA01EBCCDFF0079326A /* LaunchScreen.storyboard */; };
 		3117BCAC1EBD0A890079326A /* Tasks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3117BCAB1EBD0A890079326A /* Tasks.swift */; };
+		3117BCAE1EBD1C670079326A /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3117BCAD1EBD1C670079326A /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3117BCA11EBCCDFF0079326A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3117BCA31EBCCDFF0079326A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3117BCAB1EBD0A890079326A /* Tasks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tasks.swift; sourceTree = "<group>"; };
+		3117BCAD1EBD1C670079326A /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				3117BC941EBCCDFE0079326A /* AppDelegate.swift */,
 				3117BC961EBCCDFE0079326A /* ViewController.swift */,
 				3117BC981EBCCDFE0079326A /* Main.storyboard */,
+				3117BCAD1EBD1C670079326A /* CreateTaskViewController.swift */,
 				3117BCAB1EBD0A890079326A /* Tasks.swift */,
 				3117BC9E1EBCCDFF0079326A /* Assets.xcassets */,
 				3117BCA01EBCCDFF0079326A /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 				3117BC971EBCCDFE0079326A /* ViewController.swift in Sources */,
 				3117BC9D1EBCCDFE0079326A /* Do_It_App.xcdatamodeld in Sources */,
 				3117BC951EBCCDFE0079326A /* AppDelegate.swift in Sources */,
+				3117BCAE1EBD1C670079326A /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
